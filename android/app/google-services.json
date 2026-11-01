@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "454679915334",
+    "project_id": "emergencyresponsesystem-9a9f4",
+    "storage_bucket": "emergencyresponsesystem-9a9f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454679915334:android:c87644dda903e56336d347",
+        "android_client_info": {
+          "package_name": "com.example.rbac_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArip_2fMsX8B1twpBHSSmbhc34d5ZHjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454679915334:android:9ec4a1b66dec65d336d347",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArip_2fMsX8B1twpBHSSmbhc34d5ZHjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454679915334:android:c63e0946355199bd36d347",
+        "android_client_info": {
+          "package_name": "com.yourcompany.emergencyresponseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArip_2fMsX8B1twpBHSSmbhc34d5ZHjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
